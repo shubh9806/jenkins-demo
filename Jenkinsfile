@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Say Hello') {
             steps {
-                echo 'Jenkins is talking to GitHub!'
+                echo 'Shubham'
             }
         }
     }
