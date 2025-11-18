@@ -5,6 +5,9 @@ pipeline {
             steps {
                 echo 'Shubham'
             }
+            steps {
+                echo 'shubh'
+            }
         }
     }
 }
