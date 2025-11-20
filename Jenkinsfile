@@ -6,7 +6,7 @@ pipeline {
                 echo 'Sonam'
             }
             steps {
-                echo 'shubh'
+                echo 'shubham'
             }
         }
     }
